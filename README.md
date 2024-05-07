@@ -1,7 +1,7 @@
 # first you have to import dependencies
 
 ```
-pip install opencv-python
+pip install opencv-python numpy matplotlib
 ```
 
 ## then you change the file path according to your system
